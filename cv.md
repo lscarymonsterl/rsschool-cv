@@ -15,3 +15,7 @@ Motivated Computer Science student with a strong foundation in HTML, CSS, and Ja
 * Git, GitHub
 * VS Code
 * Figma
+
+##### Languages
+* Russian (native)
+* English (A1)
