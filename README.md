@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://lscarymonsterl.github.io/rsschool-cv/cv
